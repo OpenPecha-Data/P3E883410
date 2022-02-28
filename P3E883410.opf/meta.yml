@@ -1,0 +1,19 @@
+id: P3E883410
+initial_creation_type: input
+source_metadata:
+  title: Pramāṇa Series
+  language: en
+  description: 'Texts on the theme of Pramāṇa (tshad ma) or valid cognition, the branch
+    of knowledge which deals with logic and epistemology:'
+  volume:
+    8c9267da04864cce98f664d55ac383db:
+      title: Benedictory Verses for A Brilliant Elucidation of Logical Reasoning
+      parent: Benedictory Verses
+    5d722864ef6e40648f9482785005b2d3:
+      title: On Knowable Objects
+      parent: Epistemology
+    5d5cae63cfe7420a8d0639c04235767d:
+      title: The Sword of Wisdom for Thoroughly Ascertaining Reality
+      parent: Epistemology
+created_at: '2022-03-01T05:13:57.088844'
+last_modified_at: '2022-03-01T05:13:57.088851'
